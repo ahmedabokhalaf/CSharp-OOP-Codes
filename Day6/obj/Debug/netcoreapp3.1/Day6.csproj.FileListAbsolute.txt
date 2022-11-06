@@ -1,0 +1,14 @@
+D:\ITI3Months\Labs\ConsoleApp1\Day6\bin\Debug\netcoreapp3.1\Day6.exe
+D:\ITI3Months\Labs\ConsoleApp1\Day6\bin\Debug\netcoreapp3.1\Day6.deps.json
+D:\ITI3Months\Labs\ConsoleApp1\Day6\bin\Debug\netcoreapp3.1\Day6.runtimeconfig.json
+D:\ITI3Months\Labs\ConsoleApp1\Day6\bin\Debug\netcoreapp3.1\Day6.runtimeconfig.dev.json
+D:\ITI3Months\Labs\ConsoleApp1\Day6\bin\Debug\netcoreapp3.1\Day6.dll
+D:\ITI3Months\Labs\ConsoleApp1\Day6\bin\Debug\netcoreapp3.1\Day6.pdb
+D:\ITI3Months\Labs\ConsoleApp1\Day6\obj\Debug\netcoreapp3.1\Day6.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI3Months\Labs\ConsoleApp1\Day6\obj\Debug\netcoreapp3.1\Day6.AssemblyInfoInputs.cache
+D:\ITI3Months\Labs\ConsoleApp1\Day6\obj\Debug\netcoreapp3.1\Day6.AssemblyInfo.cs
+D:\ITI3Months\Labs\ConsoleApp1\Day6\obj\Debug\netcoreapp3.1\Day6.csproj.CoreCompileInputs.cache
+D:\ITI3Months\Labs\ConsoleApp1\Day6\obj\Debug\netcoreapp3.1\Day6.dll
+D:\ITI3Months\Labs\ConsoleApp1\Day6\obj\Debug\netcoreapp3.1\Day6.pdb
+D:\ITI3Months\Labs\ConsoleApp1\Day6\obj\Debug\netcoreapp3.1\Day6.genruntimeconfig.cache
+D:\ITI3Months\Labs\ConsoleApp1\Day6\obj\Debug\netcoreapp3.1\Day6.csproj.AssemblyReference.cache
